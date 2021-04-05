@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257439016870",
+    "project_id": "skillclock-900cc",
+    "storage_bucket": "skillclock-900cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257439016870:android:ac661d0610a4a6314f5167",
+        "android_client_info": {
+          "package_name": "com.example.skillclock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257439016870-m5e8ktvca55kash9t7qdgrj01lcj63tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg1jkKT7v0WpjHrcbcBZnAUpl3gf80mO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257439016870-m5e8ktvca55kash9t7qdgrj01lcj63tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
