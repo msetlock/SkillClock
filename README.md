@@ -1,7 +1,8 @@
 # SkillClock
+
+A stopwatch app for tracking and recording the total amount of time spent practicing skills. The app communicates with a firebase database to record skills and their data
+
 SI individual Project
-Of the resources used, I followed tutorials and edited and shaped the code to do what I needed. These are videos
-that provided the most help and what I based some of my own after
 
 Resources used:
 Chronometer / Stopwatch with Start, Pause, Resume, Reset - Android Studio Tutorial: https://www.youtube.com/watch?v=RLnb4vVkftc
